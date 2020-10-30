@@ -1,4 +1,4 @@
-baseURL = "https://mamgrodno.netlify.com"
+baseURL = "https://mamgrodno.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
