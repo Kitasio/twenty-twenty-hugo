@@ -11,6 +11,10 @@ title = "MAMGrodno"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
+URL = "/about"
+name = "About"
+weight = ""
+[[menu.desktop]]
 URL = "contact"
 name = "Contact"
 weight = 1
