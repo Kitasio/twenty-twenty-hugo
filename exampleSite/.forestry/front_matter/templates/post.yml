@@ -28,3 +28,5 @@ fields:
   type: image_gallery
   config: {}
   label: gallery
+pages:
+- exampleSite/content/blog/nicks-new-post.md
